@@ -1,4 +1,5 @@
 # Introduction to the traffic_stops page
+
 Whether racial profiling plays a significant role in traffic stops has been an ongoing question raised by various communities for many years.  While some there have been some studies and attempts to analyze this behavior (see the "Background" section below), more can be done in this area.  Fortunately, some government agencies have continued to gather data around this, and this study will analyze the available police traffic stop data collected in various Virginia localities from July 2020 to August 2022.  While some analysis of this data is available on the government website at https://data.virginia.gov/stories/s/rden-cz3h, this project will undertake a more fulsome analysis and also incorporate additional data as part of the analysis to gain further insight into traffic stop behavior by Virginia police of various localities.
 
 
@@ -37,7 +38,7 @@ In addition, data from the electronic frontier foundation on police surveillance
 
 # Challenges
 
-The most significant challenge that I expect to encounter is efficiently handling and organizing data of this volume and consolidating it all to a unified structured database that will enable me to provide meaningful analyses that will be easy for the user to understand.  Oftentimes, when there is too much data, and especially too many data points, overanalysis can actually obfuscate the the truly important results.  In this analysis, it will be important to highlight the most critical findings and then provide additional options for the user to see the secondary or tertiary findings.  One way to do this may be to triage the findings using levels of social impact.
+One challenge I foresee is keeping the scope of this study sufficiently narrow and focused, as the amount of available data, existing studies, and resulting analyses could quickly exponentiate if not kept tightly focused.  Another challenge will be efficiently handling and organizing data of this volume and consolidating it all to a unified structured database that will enable me to provide meaningful analyses that will be easy for the user to understand.  Oftentimes, when there is too much data, and especially too many data points, overanalysis can actually obfuscate the the truly important results.  In this analysis, it will be important to highlight the most critical findings and then provide additional options for the user to see the secondary or tertiary findings.  One way to do this may be to triage the findings using levels of social impact.
 
 
 
