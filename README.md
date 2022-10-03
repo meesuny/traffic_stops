@@ -5,18 +5,14 @@ Whether racial profiling plays a significant role in traffic stops has been an o
 
 # Background
 
-"Racial disparities in policing are well documented, but the reasons for such disparities are often debated." https://journals.sagepub.com/doi/full/10.1177/09567976211051272#bibr15-09567976211051272
-
-"Racial disparities in traffic stop outcomes are widespread and well documented. Less well understood is how racial disparities may be amplified or muted in different contexts."
-https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/at-the-intersection-race-gender-and-discretion-in-police-traffic-stop-outcomes/2C7329D70147351D843E50B4C1A47CDE
+Today, the existence of racially motivated differences in traffic stop behavior is generally recognized.  ("Racial disparities in policing are well documented, but the reasons for such disparities are often debated." https://journals.sagepub.com/doi/full/10.1177/09567976211051272#bibr15-09567976211051272; "Racial disparities in traffic stop outcomes are widespread and well documented. Less well understood is how racial disparities may be amplified or muted in different contexts." https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/at-the-intersection-race-gender-and-discretion-in-police-traffic-stop-outcomes/2C7329D70147351D843E50B4C1A47CDE; "Police disproportionately stop Black drivers in Suffolk County, especially for non-traffic-safety reasons."  https://www.vera.org/downloads/publications/analysis-of-racial-disparities-police-traffic-stops-suffolk-county-ma.pdf)
 
 "Disparities in the treatment of Black and White Americans in police stops are pernicious and widespread. We examined racial disparities in police traffic stops by leveraging data on hundreds of U.S. counties from the Stanford Open Policing Project and corresponding county-level data on implicit and explicit racial attitudes from the Project Implicit research website. We found that Black–White traffic-stop disparities are associated with county-level implicit and explicit racial attitudes and that this association is attributable to racial demographics: Counties with a higher proportion of White residents had larger racial disparities in police traffic stops. We also examined racial disparities in several poststop outcomes (e.g., arrest rates) and found that they were not systematically related to racial attitudes, despite evidence of disparities. These findings indicate that racial disparities in counties’ traffic stops are reliably linked to counties’ racial attitudes and demographic compositions."  https://journals.sagepub.com/doi/full/10.1177/09567976211053573?casa_token=VBTN3cpgAokAAAAA%3AhoE8ru_VxaCyqSbTSTf_DRWlO_fcB_avjzf5JfLATx3LTYSi11Ri4imn1DIAWbigGlLkQyoyUKFrBA
 
-"Police disproportionately stop Black drivers in Suffolk County, especially for non-traffic-safety reasons."  https://www.vera.org/downloads/publications/analysis-of-racial-disparities-police-traffic-stops-suffolk-county-ma.pdf
-
-As noted above, there are some studies that also compare this against previous analyses done in 2000 using data collected from the Richmond, VA police department found here: https://journals.sagepub.com/doi/abs/10.1177/1098611101004001001?casa_token=XMTOgzS7iecAAAAA:ZkV1f6W_D41YbTTK_nj8bTS2A1n_Et-IZzJTXdkYinbLQfAejRY-dx_R4HLXXLdNO_-XFB7ktA2G.  
 
 "The authors’ multilevel analysis indicates that the racial effect on police decision to arrest is more likely to be contextual than individual. Black and Hispanic drivers have no significant difference from White drivers in police decisions to arrest when area variations are controlled. In contrast, the concentrations of Blacks and other racial minorities in areas are significantly associated with the chance of being arrested by police in traffic stops. However, as the level of racial diversity increases in an area, the chance of being arrested is likely to decrease."  https://www.emerald.com/insight/content/doi/10.1108/PIJPSM-11-2020-0176/full/html?casa_token=j7L9ngRTEDEAAAAA:XNfuGaEkR7rJJTPP1NENLAQk870MPkMYdK7Dvl8zSl15xn6JN3y4DBjY2twsbqFCuW2o0ASpUKIqe2qHdPIo1GrRjK4O3hLZnyd3AyQYC-Hxc1fjpZhv
+
+As noted above, there are some studies that also compare this against previous analyses done in 2000 using data collected from the Richmond, VA police department found here: https://journals.sagepub.com/doi/abs/10.1177/1098611101004001001?casa_token=XMTOgzS7iecAAAAA:ZkV1f6W_D41YbTTK_nj8bTS2A1n_Et-IZzJTXdkYinbLQfAejRY-dx_R4HLXXLdNO_-XFB7ktA2G.  
 
 Finally, we may also examine the effects of certain officers being more biased than others.  "30–40% of individual officers exhibit a higher propensity to stop black drivers."  https://www.sciencedirect.com/science/article/pii/S0927537120301160?casa_token=7yqMDCWchMwAAAAA:j-HIhXDP67CToyWWtlGuIKOjZqeBIJe6JivpEHWbUh27I5JSjbiO-QArPvz9BWW6TEJtFK_7xw.
 
@@ -34,13 +30,17 @@ In addition, data from the electronic frontier foundation on police surveillance
 
 # Potential Analyses
 
+There will be a few key items of interest in this analysis:
+1) Whether there exist racial/ethnic disparities in traffic stop behavior in Virginia locales based on the available data
+2) Whether there are differences between various Virginia locales regarding any racial/ethnic disparities
+3) The effect of local demographics on any racial/ethnic disparities
+4) The effect of police surveillance technology on racial/ethnic disparities
+5) Predictors of racial/ethnic disparities
+
+These key items will likely be presented in charts or plots with accompanying explanations.
 
 
 # Challenges
 
-One challenge I foresee is keeping the scope of this study sufficiently narrow and focused, as the amount of available data, existing studies, and resulting analyses could quickly exponentiate if not kept tightly focused.  Another challenge will be efficiently handling and organizing data of this volume and consolidating it all to a unified structured database that will enable me to provide meaningful analyses that will be easy for the user to understand.  Oftentimes, when there is too much data, and especially too many data points, overanalysis can actually obfuscate the the truly important results.  In this analysis, it will be important to highlight the most critical findings and then provide additional options for the user to see the secondary or tertiary findings.  One way to do this may be to triage the findings using levels of social impact.
-
-
-
-
+One challenge I foresee is keeping the scope of this study sufficiently narrow and focused, as the amount of available data, existing studies, and resulting analyses could quickly exponentiate if not kept tightly focused.  Another challenge will be efficiently handling and organizing data of this volume and consolidating it all to a unified structured database that will enable me to provide meaningful analyses that will be easy for the user to understand.  Oftentimes, when there is too much data, and especially too many data points, overanalysis can actually obfuscate the the truly important results.  In this analysis, it will be important to highlight the most critical findings and then provide additional options for the user to see the secondary or tertiary findings, potentially by triaging the findings using levels of social impact.
 
