@@ -16,7 +16,7 @@ Finally, we may also examine the effects of certain officers being more biased t
 # Data
 
 The primary source of traffic stop data will be this site: https://data.virginia.gov/Public-Safety/Community-Policing-Data-July-1-2020-to-August-31-2/2c96-texw.
-Due to the volume (1.88 rows with 20 columns), the data will be extracted to Rivanna using an API.  Additional data on community demographics will be gathered from the Weldon Cooper Center, and this data together with the traffic stop data will be stored in a relational database.  
+Due to the volume (1.88 rows with 20 columns), the data will be extracted to Rivanna using an API.  Additional data on community demographics will be gathered from the Weldon Cooper Center (https://demographics.coopercenter.org/), and this data together with the traffic stop data will be stored in a relational database for analysis.  
 
 The text of the specific code sections that were cited as violations in the data will be gathered (i.e., scraped) from the government website (https://law.lis.virginia.gov/vacodefull/title46.2/) and presented together with all other analysis in the final dashboard.  
 
